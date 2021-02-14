@@ -12,6 +12,16 @@ button {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 /* Styles */
 
 .menu {
@@ -83,6 +93,7 @@ button {
   flex-direction: column;
   align-items: center;
   padding: 56px 8px 0px;
+  flex-grow: 1;
 }
 
 .content__logo {
