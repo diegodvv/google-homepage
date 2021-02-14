@@ -1,7 +1,9 @@
-# Google Homepage UI Clone
+# Google Homepage UI
+
+Responsive Google homepage UI clone made with pure **HTML & CSS**, following this [video](https://www.youtube.com/watch?v=KgjzE1Sxtq0).
+
+## ⚡ Demo
 
 <p style="text-align: center;">
-`gif`
+  <img src="demo.gif" alt="demo" />
 </p>
-
-UI Clone made with pure HTML & CSS, following this [video](https://www.youtube.com/watch?v=KgjzE1Sxtq0).
